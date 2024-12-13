@@ -1,6 +1,5 @@
-public class Consumable extends Item{
+public interface Consumable{
 
-
-
+    void useItem();
 
 }

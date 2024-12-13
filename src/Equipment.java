@@ -1,4 +1,4 @@
-public class Equipment extends Item{
+public abstract class Equipment implements StatModifiers extends Item{
     public void equip(){
 
     }
